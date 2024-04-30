@@ -28,6 +28,11 @@ header {
 
 }
 
+.navigation {
+    display:flex;
+    flex-direction:row;
+}  
+
 .navigation a{
     text-decoration: none;
     color: brown;
