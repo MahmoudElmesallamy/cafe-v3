@@ -28,7 +28,8 @@ header {
 
 }
 
-.navigation a {
+.navigation a{
+    display:flex;
     text-decoration: none;
     color: brown;
     font-size: 1.1em;
