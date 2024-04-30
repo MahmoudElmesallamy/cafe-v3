@@ -29,8 +29,6 @@ header {
 }
 
 .navigation a{
-    display:flex;
-    flex-direction:column;
     text-decoration: none;
     color: brown;
     font-size: 1.1em;
